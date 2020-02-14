@@ -1,2 +1,2 @@
-#this is my first App
-this is my first app on git 
+#My APP
+this is my first app on git
